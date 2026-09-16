@@ -1,0 +1,10 @@
+{
+  "name": "Document OCR Studio",
+  "description": "High-accuracy OCR document scanner for handwritten notes, math formulas (LaTeX), and automatic geometric/mathematical SVG diagram generation, powered by Sarvam AI and Gemini Vision.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
